@@ -1,0 +1,22 @@
+#Nome que aparecera em cima do feiticeiro
+#para spawnar o NPC Digite /setarfeiticeiro 
+#Plugin versao 1.0
+#Criado por MaxThon1365
+
+#Permissoes>
+   #feiticeiro.spawn - Seta um feiticeiro
+   #feiticeiro.use - Pode abrir o menu de trocas do feiticeiro
+
+
+NPC:
+  Nome: '&5Feiticeiro'
+  
+Mensagens:
+  Ser_Jogador: '&aVoce precisa ser um jogador para executar este comando!'  
+  Sem_Permissao: '&cVoce nao tem permissao para fazer isto!'
+  Feiticeiro_Setado: '&aFeiticeiro setado com sucesso!' 
+  Feiticeiro_Removido: '&cFeiticeiro foi removido'
+  
+Inventario:
+  Nome: '&5Feiticeiro &7- &aTrocas'
+  

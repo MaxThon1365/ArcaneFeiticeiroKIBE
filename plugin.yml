@@ -1,0 +1,6 @@
+name: ArcaneFeiticeiros
+version: 1.0
+author: MaxThon1365
+main: net.arcane.kibe.Main
+commands:
+  setarfeiticeiro:
